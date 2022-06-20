@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Telegram's Best Filter Bot😴Developed By DX_Botz",
+   "description": "Telegram's Best Filter Bot😴Developed By athulx80",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -90,7 +90,7 @@
       
    ],
    "name": "Filter Bot",
-   "repository": "https://github.com/Jijinr/Filter-Bot",
+   "repository": "https://github.com/athulx80/Filter-Bot",
    "success_url": "https://telegram.dog/Filters_Robot",
-   "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
+   "logo": "https://telegra.ph/file/97b6c9ce77dd143d00b24.jpg"
 }
